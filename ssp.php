@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: SMART_DEV
- * Date: 7/26/14
- * Time: 9:22 AM
- */
+
 
 
 class ssp
